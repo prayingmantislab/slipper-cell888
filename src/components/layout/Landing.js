@@ -7,7 +7,7 @@ const Landing = () => {
         <div className="landing-inner">
           <h1 className="x-large">Sleeper Cell</h1>
           <p className="lead">
-            Manage your experimenters readings in one place.
+            Manage your experimenters light and sound readings and sleep records in one place.
           </p>
           <div className="buttons">
             <Link to="/register" className="btn btn-primary">
